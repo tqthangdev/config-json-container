@@ -2,5 +2,7 @@
   "version": 1,
   "serverUrl": "https://ytb-mp3-server.onrender.com",
   "maintenance": false,
-  "serverType": "free"
+  "serverType": "free",
+  "maxConcurrent": 1,
+  "maxQueueLength": 20
 }
